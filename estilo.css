@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.myChart{
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}
+
+.myChart2{
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}
